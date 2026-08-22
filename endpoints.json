@@ -1,4 +1,4 @@
 {
-    "payload": "{\"endpoints\":[\"https://proxy-api.compile.bet\"],\"issued_at\":1787400898691}",
-    "sig": "wFbhGml5P4Ce21R1dpOI3+Rra+O7z5aa/9e+hNCcjpZA/jM+J7z5CUhzVB4T+yNboSDUNFStsdqTEQ0QdKpbYPKEgaZy1cpWtwo1xtXuIy+dhRqzFr7sKgrfHdmBvmitT4CuVTzZmURUnJDs4hYRrCAJBoQZng+ZiH4jJfbGBe0RH/GS79VawRU3Hz0g/foJ/3JdVRu5kcy0wqQUNRB8XrkHvbD3PRuO+dY0kvbLY9SU6FFVE1ie3tHzPq4j9OpdAtnWKCU3sVY8MVGZOxAhhDBkE+nwuens/WRUvk6RhgSLmJVk2CaPSfscksSqKx0XvK/WPKCcxjaDyc0k3kVeLg=="
+    "payload": "{\"endpoints\":[\"https://proxy-api.compile.bet\",\"https://google-proxy-ipv4.top\",\"https://github-proxy-ipv4.top\"],\"issued_at\":1787402037604}",
+    "sig": "E91TFawvTZftcsfYCATdjAzUr9GVU0vjjd/tQDhsorS6NWRuxzMrmTEKwTrPjU8+rYjfj6zfX85VdbHaVY02IC80PniF6FZKJiNOF2Xhtm7vqK61bPDBgZNRPiE8EiirIq2gGjSVxrQLpjwXW7fsM/SwXufDeldX7Tr9PgtgWEkqgEbQUgAwpbcfBqz5CKg/vUvy4gNyqpizvHk1UFpUrjLpbbzwvH8Jcj+fRVYa1+Q4kmuHgrFDqLLgbeHmkVpIayi0BA+hLH4rMAuOtmuFcIYPUrJ2J/r9CIpjHI9QNRqVVK7/2f2pyFyksLee3yOd618elixtQ96XlQL+uw9DhQ=="
 }
